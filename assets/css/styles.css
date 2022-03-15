@@ -26,17 +26,12 @@ body {
 /*    create named grid area*/
     grid-area: h;
     background: #ccc;
-    
-    display: flex;
-    flex-direction: column;
 }
 .header h1 {
     text-align: center;
     padding-top: 20px;
 }
-.header .cart {
-    align-self: flex-end;
-}
+
 .main {
     grid-area: m;
     background: #f4f4f4;
