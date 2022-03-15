@@ -26,6 +26,7 @@ body {
 /*    create named grid area*/
     grid-area: h;
     background: #ccc;
+    
     display: flex;
     flex-direction: column;
 }
